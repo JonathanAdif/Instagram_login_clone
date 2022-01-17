@@ -1,0 +1,14 @@
+@media all and (max-width: 670px){
+    .img1{
+        display: none;
+    }
+    .tr1{
+        font-size: 5px;
+    }
+    .tr2{
+        font-size: 5px;
+    }
+    .tr3{
+        font-size: 5px;
+    }
+}
